@@ -4,6 +4,10 @@ Chaton is a simple chat service which has features to translate the incoming mes
 
 # Screen Shots
 ![Home Screen](screen_shots/Screenshot_2019-06-01-18-19-59-883_com.flutterhackathon.chat_on.png)
+![Translation Screen](screen_shots/Screenshot_2019-06-01-18-21-45-419_com.flutterhackathon.chat_on.png)
+![Translation Screen](screen_shots/Screenshot_2019-06-01-18-21-53-587_com.flutterhackathon.chat_on.png)
+![Translation Screen](screen_shots/Screenshot_2019-06-01-18-43-24-387_com.flutterhackathon.chat_on.png)
+![Translation Screen](screen_shots/flutter_hac1.png)
 
 ## Getting Started
 
