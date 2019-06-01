@@ -2,9 +2,8 @@
 
 Chaton is a simple chat service which has features to translate the incoming messages in your native language.
 
-#Screen Shots
-![Home Screen]
-(https://raw.githubusercontent.com/pavanmt/FlutterHackathon2019/screen_shots/Screenshot_2019-06-01-18-19-59-883_com.flutterhackathon.chat_on.png)
+# Screen Shots
+![Home Screen] (https://raw.githubusercontent.com/pavanmt/FlutterHackathon2019/screen_shots/Screenshot_2019-06-01-18-19-59-883_com.flutterhackathon.chat_on.png)
 
 ## Getting Started
 
