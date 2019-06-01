@@ -1,6 +1,6 @@
 # Namma ChatOn
 
-Namma ChatOn is a simple chat service which has features to translate the incoming messages into user prefered native language. The basic idea of the app is to eliminate the language barrier between the users communication. The user can wish to communicate with his/her own language while the other can recieve in his/her own language. This app has a wider scope to improvise in supporting multiple source and translation language.
+Namma ChatOn is a simple chat service which has features to translate the incoming messages into user prefered native language in a real time. The basic idea of the app is to eliminate the language barrier between the users communication. The user can wish to communicate with his/her own language while the other can recieve in his/her own language. This app has a wider scope to improvise in supporting multiple source and translation language.
 
 # Screen Shots
 
