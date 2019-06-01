@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "931725833456",
+    "firebase_url": "https://flutterhackathon-chaton.firebaseio.com",
+    "project_id": "flutterhackathon-chaton",
+    "storage_bucket": "flutterhackathon-chaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931725833456:android:93f7b5aa726e8e70",
+        "android_client_info": {
+          "package_name": "com.flutterhackathon.chat_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931725833456-5ho3h7kgqrfnd3uldjgs9o94m3vgjj76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterhackathon.chat_on",
+            "certificate_hash": "8610f597c245b5372d94607eca95b9f653fff596"
+          }
+        },
+        {
+          "client_id": "931725833456-n4qn6i1daimc4r1v4o1hni9kms9ndp5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQNr9fnJBbGgsYxq2edIRk0D-odRHEt-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931725833456-n4qn6i1daimc4r1v4o1hni9kms9ndp5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931725833456-c5ro4efnlonhdq4phlbnr527g08glp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterhackathon.chatOn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931725833456:android:f97dd481f0612ee9",
+        "android_client_info": {
+          "package_name": "com.flutterhackathon.chat_on_v"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931725833456-4e4b2n4j5osa5bte0nkjth5llocfqktp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterhackathon.chat_on_v",
+            "certificate_hash": "128541f188809ca9dd97409b10af6280f87b0e09"
+          }
+        },
+        {
+          "client_id": "931725833456-n4qn6i1daimc4r1v4o1hni9kms9ndp5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQNr9fnJBbGgsYxq2edIRk0D-odRHEt-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931725833456-n4qn6i1daimc4r1v4o1hni9kms9ndp5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931725833456-c5ro4efnlonhdq4phlbnr527g08glp35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterhackathon.chatOn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
