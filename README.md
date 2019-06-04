@@ -1,8 +1,8 @@
-# Namma ChatOn
+## Namma ChatOn
 
 Namma ChatOn is a simple chat service which has features to translate the incoming messages into user prefered native language in a real time. The basic idea of the app is to eliminate the language barrier between the users communication. The user can wish to communicate with his/her own language while the other can recieve in his/her own language. This app has a wider scope to improvise in supporting multiple source and translation language.
 
-# Screen Shots
+## Screen Shots
 
 ![Translation Screen](screen_shots/flutter_hac1.png)
 
@@ -10,6 +10,9 @@ Namma ChatOn is a simple chat service which has features to translate the incomi
 
 ![Translation Screen](screen_shots/Screenshot_2019-06-01-18-43-24-387_com.flutterhackathon.chat_on.png)
 
+
+## Demo
+- [Video](https://t.co/Efzz9LxioP)
 
 ## Getting Started
 
